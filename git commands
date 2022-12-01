@@ -23,3 +23,5 @@ git branch "hello-world-images"
 git branch 
 //move to current branch to another
 git checkout "branchname"
+//add repository to remote
+git add origin "url"
